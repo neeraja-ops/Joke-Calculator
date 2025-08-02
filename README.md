@@ -5,7 +5,7 @@
 
 
 ## Basic Details
-### Team Name: nULL POINTERS
+### Team Name: NULL POINTERS
 
 
 ### Team Members
