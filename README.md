@@ -56,51 +56,18 @@ The program loops until the user decides to quit.
 
 No external API or internet connection required — all jokes are local!
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots
+![testcode](https://github.com/neeraja-ops/Joke-Calculator/blob/b158bcb27d47ce4ad2e0c6be6a34f3c94a0ef54e/testcode.png)
+This state shows before the output
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+![runcode](https://github.com/neeraja-ops/Joke-Calculator/blob/b158bcb27d47ce4ad2e0c6be6a34f3c94a0ef54e/runcode.png)
+This state is the output of the code
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1Pzz3aDYMgZV3XHH7LGjIooXtnX-Q50Fg/view?usp=drive_link
 
-# Additional Demos
-[Add any extra demo materials/links]
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
